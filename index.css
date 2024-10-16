@@ -50,6 +50,8 @@
 .navbar__menu {
   display: flex;
   align-items: center;
+  gap: 40px;
+  color: red;
   list-style: none;
   text-align: center;
 }
@@ -76,7 +78,7 @@
   width: 100%;
 }
 
-.buttom {
+.button {
   display: flex;
   justify-content: center;
   align-items: center;
